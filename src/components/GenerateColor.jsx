@@ -46,5 +46,6 @@ export default function RandomColorBox() {
                 {isRunning ? "Stop Changing Color" : "Start Changing Color"}
             </button>
         </div>
+        
     );
 }
